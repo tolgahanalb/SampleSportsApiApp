@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+
+    <TextView
+        android:id="@+id/tv_pp_row_fragment_top_scorer"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="25dp"
+        android:background="@drawable/custom_border"
+        android:gravity="center"
+        android:text="10" />
+
+
+    <TextView
+        android:id="@+id/tv_pname_row_fragment_top_scorer"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:text="Row" />
+
+
+    <TextView
+        android:id="@+id/tv_tname_row_fragment_top_scorer"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="25dp"
+        android:background="@drawable/custom_border"
+        android:gravity="center"
+        android:text="Row" />
+
+
+    <TextView
+        android:id="@+id/tv_goals_row_fragment_top_scorer"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="25dp"
+        android:background="@drawable/custom_border"
+        android:gravity="center"
+
+        android:text="10" />
+
+
+</LinearLayout>

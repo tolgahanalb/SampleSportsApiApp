@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LearnFragment</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_select_country_fragment">Ülkeler</string>
+    <string name="title_select_league_fragment">Ligler</string>
+    <string name="title_livescore_fragment">Canlı Skor</string>
+    <string name="title_topscorer_fragment">Top Scorer</string>
+    <string name="title_mainpage_fragment">Ana Sayfa</string>
+    <string name="title_fixture_fragment">Fikstür</string>
+    <string name="tv_fixture_fragment_text">Tarih: %1$s</string>
+
+
+
+
+</resources>
